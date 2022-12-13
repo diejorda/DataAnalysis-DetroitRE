@@ -1,0 +1,65 @@
+ID Race,Race,ID Year,Year,ID Poverty Status,Poverty Status,PovertyPopulation,Poverty Population Moe,Geography,ID Geography,Slug Geography,share
+1,"White",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",340477,3896.936617395772,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.44674692471707395
+1,"White",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",336584,3723.0922631597514,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.4439918426141625
+1,"White",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",332482,3875.881706141198,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.4402090874666681
+1,"White",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",326178,3678.572821081567,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.44518723146383943
+2,"Black",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",319240,3648.452959817352,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.4226765631909671
+1,"White",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",317583,3734.602254591511,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.448961790967129
+2,"Black",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",317355,3566.76393948352,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.4164080695423979
+2,"Black",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",316715,3475.5278735754655,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.41778241518772274
+1,"White",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",310387,3560.6290174630662,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.45227062769749055
+2,"Black",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",302225,3490.3107311527433,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.4124947452898689
+1,"White",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",296111,3723.257579056276,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.4486795431851276
+2,"Black",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",287682,3426.7481669944764,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.40669124590738676
+1,"White",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",278512,3946.8497564513395,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.44331749556303673
+2,"Black",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",274480,3375.6455678877187,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.3999498751249479
+2,"Black",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",262469,3501.874355256053,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.39770380370961317
+2,"Black",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",248374,4040.398990198864,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.3953457647892144
+9,"Hispanic",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",45184,1374.925088868481,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.059286862391340005
+9,"Hispanic",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",44996,1377.2860995450437,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.059575099102057244
+9,"Hispanic",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",44830,1302.3244603400492,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.05913577087559987
+9,"Hispanic",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",42691,1295.8078561268255,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.058267228624931076
+9,"Hispanic",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",41603,1348.2084408577184,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.06303857349146388
+9,"Hispanic",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",41024,1312.8571894916827,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.05799494466843471
+9,"Hispanic",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",40872,1318.9609546912297,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.0595553457304972
+9,"Hispanic",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",38626,1488.6950661569347,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.061482383465049466
+7,"Two Or More",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",25291,1120.8929476091819,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.03318484500574053
+7,"Two Or More",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",24876,1059.4508011229213,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.03281421896724118
+7,"Two Or More",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",24850,1126.86733913092,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.033916765391523676
+7,"Two Or More",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",24634,1099.3539011619507,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.0348246749942039
+7,"Two Or More",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",24430,1319.9571962756975,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.03888610335139953
+7,"Two Or More",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",23836,1093.7915706385747,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.03155907329977412
+7,"Two Or More",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",23292,1083.9949261873876,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.033939203189340884
+7,"Two Or More",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",22366,1113.7284229110794,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.03388988137177803
+4,"Asian",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",22286,986.9361681486802,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.03247334201775936
+4,"Asian",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",20781,1003.0518431267649,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.031488224304163426
+4,"Asian",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",20552,1099.433945264562,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.03271335227498826
+4,"Asian",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",20520,908.7650961607185,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.029008781800806367
+4,"Asian",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",20169,923.1451673491011,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.0275278567879936
+4,"Asian",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",18603,880.6611152991826,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.02453943220162356
+4,"Asian",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",17610,858.2709362433287,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.023106445793012957
+4,"Asian",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",17527,883.3504400859265,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.023205901901541412
+6,"Other",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",14568,1040.9212266065094,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.02318840579710145
+6,"Other",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",13946,854.6180433386601,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.018464626457402666
+6,"Other",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",13479,834.1630536052289,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.017780304609239586
+6,"Other",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",13424,809.7987404287562,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.01832187761029432
+6,"Other",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",13266,835.7601330525404,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.02010118779746076
+6,"Other",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",13076,815.8866342819938,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.018485323139734115
+6,"Other",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",13019,838.1694339451899,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.017082499589962278
+6,"Other",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",12460,786.1653770041008,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.018155696021775178
+3,"Native American",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",3122,369.8296905333589,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.004133555413739504
+3,"Native American",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",3093,347.0878851242146,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.0040583893718222075
+3,"Native American",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",3038,360.835142412709,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.004146443994344021
+3,"Native American",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",2907,355.0281678965769,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.003834657281627678
+3,"Native American",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",2850,376.2273248981259,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.004318436998549914
+3,"Native American",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",2653,364.6806822413274,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.0042228748338625855
+3,"Native American",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",2644,347.3326935374785,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.0037377787076672527
+3,"Native American",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",2273,317.14192406555145,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.0033120302614361944
+5,"Pacific Islander",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",530,230.57970422394075,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.0008436199253475953
+5,"Pacific Islander",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",515,218.90408858675983,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.0007803491418432301
+5,"Pacific Islander",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",236,130.07305639524276,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.0003438799567527241
+5,"Pacific Islander",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",209,135.96690773861116,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.0002954598146378426
+5,"Pacific Islander",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",133,135.3994091567611,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.00017609316784988918
+5,"Pacific Islander",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",101,117.45211790342479,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.00013785083720498556
+5,"Pacific Islander",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",96,122.89426349508751,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.00012596358865015581
+5,"Pacific Islander",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",92,120.17903311310171,"Detroit-Warren-Dearborn, MI","31000US19820","detroit-warren-dearborn-mi",0.00012135826278285049

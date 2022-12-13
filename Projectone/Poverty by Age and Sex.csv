@@ -1,0 +1,209 @@
+ID Age,Age,ID Year,Year,ID Poverty Status,Poverty Status,PovertyPopulation,Poverty Population Moe,Geography,ID Geography,Slug Geography,share,Sex,ID Sex
+0,"Under 5 Years",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",20994,971,"Wayne County, MI","05000US26163","wayne-county-mi",0.056806251555853796,"Male",0
+0,"Under 5 Years",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",19475,1162,"Wayne County, MI","05000US26163","wayne-county-mi",0.052696091695258296,"Female",1
+1,"5 Years",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",3543,456.00000000000006,"Wayne County, MI","05000US26163","wayne-county-mi",0.009586765231132229,"Male",0
+1,"5 Years",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",4051,432,"Wayne County, MI","05000US26163","wayne-county-mi",0.010961328239152317,"Female",1
+2,"6 to 11 Years",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",21957,1415,"Wayne County, MI","05000US26163","wayne-county-mi",0.05941196843916747,"Male",0
+2,"6 to 11 Years",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",21645,1138,"Wayne County, MI","05000US26163","wayne-county-mi",0.058567748638966154,"Female",1
+3,"12 to 14 Years",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",10244,839,"Wayne County, MI","05000US26163","wayne-county-mi",0.02771855010660981,"Male",0
+3,"12 to 14 Years",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",9524,1055,"Wayne County, MI","05000US26163","wayne-county-mi",0.0257703505676837,"Female",1
+4,"15 Years",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",3306,426,"Wayne County, MI","05000US26163","wayne-county-mi",0.008945482882902384,"Male",0
+4,"15 Years",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",3430,439,"Wayne County, MI","05000US26163","wayne-county-mi",0.009281006136828548,"Female",1
+5,"16 & 17 Years",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",5634,499.00000000000006,"Wayne County, MI","05000US26163","wayne-county-mi",0.015244661392096804,"Male",0
+5,"16 & 17 Years",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",7182,645,"Wayne County, MI","05000US26163","wayne-county-mi",0.01943329040078794,"Female",1
+6,"18 to 24 Years",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",17592,912.9999999999999,"Wayne County, MI","05000US26163","wayne-county-mi",0.047601008734427935,"Male",0
+6,"18 to 24 Years",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",20342,1029,"Wayne County, MI","05000US26163","wayne-county-mi",0.05504204864004849,"Female",1
+7,"25 to 34 Years",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",18158,1236,"Wayne County, MI","05000US26163","wayne-county-mi",0.04913251003863929,"Male",0
+7,"25 to 34 Years",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",30895,1299,"Wayne County, MI","05000US26163","wayne-county-mi",0.08359670104878075,"Female",1
+8,"35 to 44 Years",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",16601,1037,"Wayne County, MI","05000US26163","wayne-county-mi",0.04491952853571158,"Male",0
+8,"35 to 44 Years",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",22499,989.9999999999999,"Wayne County, MI","05000US26163","wayne-county-mi",0.060878529758747954,"Female",1
+9,"45 to 54 Years",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",18212,960.0000000000001,"Wayne County, MI","05000US26163","wayne-county-mi",0.049278625004058746,"Male",0
+9,"45 to 54 Years",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",19738,986,"Wayne County, MI","05000US26163","wayne-county-mi",0.053407725693504916,"Female",1
+10,"55 to 64 Years",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",19623,1045,"Wayne County, MI","05000US26163","wayne-county-mi",0.053096554933815335,"Male",0
+10,"55 to 64 Years",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",20980,1163,"Wayne County, MI","05000US26163","wayne-county-mi",0.056768369898152454,"Female",1
+11,"65 to 74 Years",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",8840,632,"Wayne County, MI","05000US26163","wayne-county-mi",0.023919561005703895,"Male",0
+11,"65 to 74 Years",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",11562,800,"Wayne County, MI","05000US26163","wayne-county-mi",0.031284837595921766,"Female",1
+12,"75 Years & Over",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",4115,521,"Wayne County, MI","05000US26163","wayne-county-mi",0.011134501531501305,"Male",0
+12,"75 Years & Over",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",9430,818,"Wayne County, MI","05000US26163","wayne-county-mi",0.025516002294546123,"Female",1
+0,"Under 5 Years",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",21503,1057,"Wayne County, MI","05000US26163","wayne-county-mi",0.0555113821180188,"Male",0
+0,"Under 5 Years",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",20488,969,"Wayne County, MI","05000US26163","wayne-county-mi",0.052891094118679684,"Female",1
+1,"5 Years",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",3550,441,"Wayne County, MI","05000US26163","wayne-county-mi",0.009164554086358497,"Male",0
+1,"5 Years",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",4201,458.99999999999994,"Wayne County, MI","05000US26163","wayne-county-mi",0.01084515259627945,"Female",1
+2,"6 to 11 Years",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",23518,1142,"Wayne County, MI","05000US26163","wayne-county-mi",0.060713234648726515,"Male",0
+2,"6 to 11 Years",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",23333,1133,"Wayne County, MI","05000US26163","wayne-county-mi",0.06023564521042332,"Female",1
+3,"12 to 14 Years",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",11079,740,"Wayne County, MI","05000US26163","wayne-county-mi",0.028601153443032615,"Male",0
+3,"12 to 14 Years",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",9823,748,"Wayne County, MI","05000US26163","wayne-county-mi",0.025358708391633667,"Female",1
+4,"15 Years",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",3710,404,"Wayne County, MI","05000US26163","wayne-county-mi",0.009577604411377472,"Male",0
+4,"15 Years",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",3751,520,"Wayne County, MI","05000US26163","wayne-county-mi",0.009683448557163583,"Female",1
+5,"16 & 17 Years",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",6666,519,"Wayne County, MI","05000US26163","wayne-county-mi",0.017208709166103026,"Male",0
+5,"16 & 17 Years",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",6884,534,"Wayne County, MI","05000US26163","wayne-county-mi",0.017771490233941378,"Female",1
+6,"18 to 24 Years",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",19020,1128,"Wayne County, MI","05000US26163","wayne-county-mi",0.049101357386630594,"Male",0
+6,"18 to 24 Years",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",21989,1067,"Wayne County, MI","05000US26163","wayne-county-mi",0.05676602248026394,"Female",1
+7,"25 to 34 Years",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",20061,1062,"Wayne County, MI","05000US26163","wayne-county-mi",0.051788766063785296,"Male",0
+7,"25 to 34 Years",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",31208,1127,"Wayne County, MI","05000US26163","wayne-county-mi",0.08056546589495098,"Female",1
+8,"35 to 44 Years",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",17406,798,"Wayne County, MI","05000US26163","wayne-county-mi",0.04493471223300169,"Male",0
+8,"35 to 44 Years",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",25150,1015,"Wayne County, MI","05000US26163","wayne-county-mi",0.06492634796392005,"Female",1
+9,"45 to 54 Years",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",18878,800,"Wayne County, MI","05000US26163","wayne-county-mi",0.048734775223176256,"Male",0
+9,"45 to 54 Years",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",22111,758,"Wayne County, MI","05000US26163","wayne-county-mi",0.057080973353090904,"Female",1
+10,"55 to 64 Years",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",18811,778,"Wayne County, MI","05000US26163","wayne-county-mi",0.04856181039957456,"Male",0
+10,"55 to 64 Years",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",21045,752,"Wayne County, MI","05000US26163","wayne-county-mi",0.05432902556265199,"Female",1
+11,"65 to 74 Years",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",8724,573,"Wayne County, MI","05000US26163","wayne-county-mi",0.022521568971659585,"Male",0
+11,"65 to 74 Years",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",11459,648,"Wayne County, MI","05000US26163","wayne-county-mi",0.02958214796495268,"Female",1
+12,"75 Years & Over",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",3826,397,"Wayne County, MI","05000US26163","wayne-county-mi",0.009877065897016228,"Male",0
+12,"75 Years & Over",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",9168,504.00000000000006,"Wayne County, MI","05000US26163","wayne-county-mi",0.02366778362358724,"Female",1
+0,"Under 5 Years",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",22330,1048,"Wayne County, MI","05000US26163","wayne-county-mi",0.05566510199452074,"Male",0
+0,"Under 5 Years",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",21229,982,"Wayne County, MI","05000US26163","wayne-county-mi",0.05292048590424007,"Female",1
+1,"5 Years",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",3662,353,"Wayne County, MI","05000US26163","wayne-county-mi",0.009128777586383115,"Male",0
+1,"5 Years",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",3987,420,"Wayne County, MI","05000US26163","wayne-county-mi",0.009938950365076318,"Female",1
+2,"6 to 11 Years",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",23872,968,"Wayne County, MI","05000US26163","wayne-county-mi",0.05950906022450511,"Male",0
+2,"6 to 11 Years",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",23914,1148,"Wayne County, MI","05000US26163","wayne-county-mi",0.05961375947590546,"Female",1
+3,"12 to 14 Years",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",11535,828,"Wayne County, MI","05000US26163","wayne-county-mi",0.028754901545311094,"Male",0
+3,"12 to 14 Years",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",10878,783,"Wayne County, MI","05000US26163","wayne-county-mi",0.027117106112691296,"Female",1
+4,"15 Years",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",4086,359,"Wayne County, MI","05000US26163","wayne-county-mi",0.010185741457662864,"Male",0
+4,"15 Years",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",3714,352,"Wayne County, MI","05000US26163","wayne-county-mi",0.009258405230974027,"Female",1
+5,"16 & 17 Years",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",6666,475,"Wayne County, MI","05000US26163","wayne-county-mi",0.016617266900827373,"Male",0
+5,"16 & 17 Years",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",7191,484,"Wayne County, MI","05000US26163","wayne-county-mi",0.01792600754333178,"Female",1
+6,"18 to 24 Years",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",20791,922.0000000000001,"Wayne County, MI","05000US26163","wayne-county-mi",0.05182862228249354,"Male",0
+6,"18 to 24 Years",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",24120,927.0000000000001,"Wayne County, MI","05000US26163","wayne-county-mi",0.060127284375631,"Female",1
+7,"25 to 34 Years",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",21075,1147,"Wayne County, MI","05000US26163","wayne-county-mi",0.052536588649105445,"Male",0
+7,"25 to 34 Years",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",31972,1068,"Wayne County, MI","05000US26163","wayne-county-mi",0.0797010587088588,"Female",1
+8,"35 to 44 Years",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",18052,879.0000000000001,"Wayne County, MI","05000US26163","wayne-county-mi",0.04500073538759912,"Male",0
+8,"35 to 44 Years",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",26158,874.0000000000001,"Wayne County, MI","05000US26163","wayne-county-mi",0.06520769090786716,"Female",1
+9,"45 to 54 Years",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",20087,786,"Wayne County, MI","05000US26163","wayne-county-mi",0.050073663401878105,"Male",0
+9,"45 to 54 Years",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",23248,859,"Wayne County, MI","05000US26163","wayne-county-mi",0.05795352848941416,"Female",1
+10,"55 to 64 Years",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",19360,843,"Wayne County, MI","05000US26163","wayne-county-mi",0.04826136921692439,"Male",0
+10,"55 to 64 Years",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",21019,865.0000000000001,"Wayne County, MI","05000US26163","wayne-county-mi",0.05239698964723831,"Female",1
+11,"65 to 74 Years",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",8309,496,"Wayne County, MI","05000US26163","wayne-county-mi",0.020713001902036402,"Male",0
+11,"65 to 74 Years",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",11267,524,"Wayne County, MI","05000US26163","wayne-county-mi",0.028086820607804083,"Female",1
+12,"75 Years & Over",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",3665,332,"Wayne County, MI","05000US26163","wayne-county-mi",0.009136256104340282,"Male",0
+12,"75 Years & Over",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",8962,568,"Wayne County, MI","05000US26163","wayne-county-mi",0.022340825977379977,"Female",1
+0,"Under 5 Years",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",22813,993.9999999999999,"Wayne County, MI","05000US26163","wayne-county-mi",0.05513462825876274,"Male",0
+0,"Under 5 Years",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",21641,1038,"Wayne County, MI","05000US26163","wayne-county-mi",0.052302129932401895,"Female",1
+1,"5 Years",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",4203,517,"Wayne County, MI","05000US26163","wayne-county-mi",0.010157841694278691,"Male",0
+1,"5 Years",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",4122,422,"Wayne County, MI","05000US26163","wayne-county-mi",0.009962080291176961,"Female",1
+2,"6 to 11 Years",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",24134,978,"Wayne County, MI","05000US26163","wayne-county-mi",0.05832723089453294,"Male",0
+2,"6 to 11 Years",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",24516,1181,"Wayne County, MI","05000US26163","wayne-county-mi",0.059250451338790484,"Female",1
+3,"12 to 14 Years",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",12157,763,"Wayne County, MI","05000US26163","wayne-county-mi",0.029381128117379505,"Male",0
+3,"12 to 14 Years",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",11190,657,"Wayne County, MI","05000US26163","wayne-county-mi",0.02704407531738724,"Female",1
+4,"15 Years",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",3996,392,"Wayne County, MI","05000US26163","wayne-county-mi",0.009657562553018714,"Male",0
+4,"15 Years",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",3980,389,"Wayne County, MI","05000US26163","wayne-county-mi",0.009618893633887507,"Female",1
+5,"16 & 17 Years",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",6899,470.99999999999994,"Wayne County, MI","05000US26163","wayne-county-mi",0.01667355456788691,"Male",0
+5,"16 & 17 Years",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",7962,534,"Wayne County, MI","05000US26163","wayne-county-mi",0.019242620882666414,"Female",1
+6,"18 to 24 Years",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",22279,989.9999999999999,"Wayne County, MI","05000US26163","wayne-county-mi",0.05384405308275874,"Male",0
+6,"18 to 24 Years",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",26336,963,"Wayne County, MI","05000US26163","wayne-county-mi",0.06364904088996517,"Female",1
+7,"25 to 34 Years",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",22270,927.0000000000001,"Wayne County, MI","05000US26163","wayne-county-mi",0.05382230181574743,"Male",0
+7,"25 to 34 Years",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",33199,1060,"Wayne County, MI","05000US26163","wayne-county-mi",0.08023559038980688,"Female",1
+8,"35 to 44 Years",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",18764,895,"Wayne County, MI","05000US26163","wayne-county-mi",0.04534897491112191,"Male",0
+8,"35 to 44 Years",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",27329,955.0000000000001,"Wayne County, MI","05000US26163","wayne-county-mi",0.06604893068354566,"Female",1
+9,"45 to 54 Years",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",20969,831,"Wayne County, MI","05000US26163","wayne-county-mi",0.050678035328891244,"Male",0
+9,"45 to 54 Years",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",23754,929,"Wayne County, MI","05000US26163","wayne-county-mi",0.057408844065166796,"Female",1
+10,"55 to 64 Years",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",19097,879.0000000000001,"Wayne County, MI","05000US26163","wayne-county-mi",0.04615377179054013,"Male",0
+10,"55 to 64 Years",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",20917,938,"Wayne County, MI","05000US26163","wayne-county-mi",0.05055236134171482,"Female",1
+11,"65 to 74 Years",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",7667,508.99999999999994,"Wayne County, MI","05000US26163","wayne-county-mi",0.018529662686184802,"Male",0
+11,"65 to 74 Years",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",10943,525,"Wayne County, MI","05000US26163","wayne-county-mi",0.026447123878299245,"Female",1
+12,"75 Years & Over",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",3857,373,"Wayne County, MI","05000US26163","wayne-county-mi",0.009321626318066361,"Male",0
+12,"75 Years & Over",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",8775,485.00000000000006,"Wayne County, MI","05000US26163","wayne-county-mi",0.021207485336020824,"Female",1
+0,"Under 5 Years",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",23239,809,"Wayne County, MI","05000US26163","wayne-county-mi",0.05427276272860816,"Male",0
+0,"Under 5 Years",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",22494,878,"Wayne County, MI","05000US26163","wayne-county-mi",0.05253287683709763,"Female",1
+1,"5 Years",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",4291,449.00000000000006,"Wayne County, MI","05000US26163","wayne-county-mi",0.010021275651639813,"Male",0
+1,"5 Years",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",4553,420,"Wayne County, MI","05000US26163","wayne-county-mi",0.010633154985298548,"Female",1
+2,"6 to 11 Years",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",25300,889.0000000000001,"Wayne County, MI","05000US26163","wayne-county-mi",0.05908605779223661,"Male",0
+2,"6 to 11 Years",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",24948,984.0000000000001,"Wayne County, MI","05000US26163","wayne-county-mi",0.05826399090121418,"Female",1
+3,"12 to 14 Years",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",12708,828,"Wayne County, MI","05000US26163","wayne-county-mi",0.02967848309975268,"Male",0
+3,"12 to 14 Years",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",11965,663,"Wayne County, MI","05000US26163","wayne-county-mi",0.027943268042850238,"Female",1
+4,"15 Years",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",4047,382,"Wayne County, MI","05000US26163","wayne-county-mi",0.009451433829453817,"Male",0
+4,"15 Years",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",4279,395,"Wayne County, MI","05000US26163","wayne-county-mi",0.00999325064399132,"Female",1
+5,"16 & 17 Years",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",7310,568,"Wayne County, MI","05000US26163","wayne-county-mi",0.01707190049253951,"Male",0
+5,"16 & 17 Years",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",7999,615,"Wayne County, MI","05000US26163","wayne-county-mi",0.01868100301502374,"Female",1
+6,"18 to 24 Years",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",23776,1074,"Wayne County, MI","05000US26163","wayne-county-mi",0.055526881820878164,"Male",0
+6,"18 to 24 Years",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",28081,1057,"Wayne County, MI","05000US26163","wayne-county-mi",0.06558085331477455,"Female",1
+7,"25 to 34 Years",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",22742,946.0000000000001,"Wayne County, MI","05000US26163","wayne-county-mi",0.0531120603284998,"Male",0
+7,"25 to 34 Years",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",34496,1064,"Wayne County, MI","05000US26163","wayne-county-mi",0.08056255532019739,"Female",1
+8,"35 to 44 Years",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",19518,859,"Wayne County, MI","05000US26163","wayne-county-mi",0.045582674940271704,"Male",0
+8,"35 to 44 Years",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",28519,1006,"Wayne County, MI","05000US26163","wayne-county-mi",0.0666037660939445,"Female",1
+9,"45 to 54 Years",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",22714,892,"Wayne County, MI","05000US26163","wayne-county-mi",0.053046668643986654,"Male",0
+9,"45 to 54 Years",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",25191,888,"Wayne County, MI","05000US26163","wayne-county-mi",0.05883149730609614,"Female",1
+10,"55 to 64 Years",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",18696,751,"Wayne County, MI","05000US26163","wayne-county-mi",0.043662961916350024,"Male",0
+10,"55 to 64 Years",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",21370,769,"Wayne County, MI","05000US26163","wayne-county-mi",0.049907867787355585,"Female",1
+11,"65 to 74 Years",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",7220,446.99999999999994,"Wayne County, MI","05000US26163","wayne-county-mi",0.016861712935175823,"Male",0
+11,"65 to 74 Years",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",10666,668,"Wayne County, MI","05000US26163","wayne-county-mi",0.024909560964901014,"Female",1
+12,"75 Years & Over",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",3619,333,"Wayne County, MI","05000US26163","wayne-county-mi",0.00845187522332428,"Male",0
+12,"75 Years & Over",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",8448,449.00000000000006,"Wayne County, MI","05000US26163","wayne-county-mi",0.019729605384538135,"Female",1
+0,"Under 5 Years",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",23818,993.9999999999999,"Wayne County, MI","05000US26163","wayne-county-mi",0.054076635433387296,"Male",0
+0,"Under 5 Years",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",23001,632,"Wayne County, MI","05000US26163","wayne-county-mi",0.05222171011853813,"Female",1
+1,"5 Years",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",4428,467,"Wayne County, MI","05000US26163","wayne-county-mi",0.010053377349023384,"Male",0
+1,"5 Years",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",4673,505,"Wayne County, MI","05000US26163","wayne-county-mi",0.010609627902435923,"Female",1
+2,"6 to 11 Years",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",25803,1028,"Wayne County, MI","05000US26163","wayne-county-mi",0.058583400121239915,"Male",0
+2,"6 to 11 Years",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",25546,984.9999999999999,"Wayne County, MI","05000US26163","wayne-county-mi",0.05799990464276227,"Female",1
+3,"12 to 14 Years",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",12957,852,"Wayne County, MI","05000US26163","wayne-county-mi",0.029417707839046063,"Male",0
+3,"12 to 14 Years",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",12368,646,"Wayne County, MI","05000US26163","wayne-county-mi",0.028080436100433877,"Female",1
+4,"15 Years",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",4202,449.00000000000006,"Wayne County, MI","05000US26163","wayne-county-mi",0.00954026459363059,"Male",0
+4,"15 Years",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",4457,380,"Wayne County, MI","05000US26163","wayne-county-mi",0.010119219251264052,"Female",1
+5,"16 & 17 Years",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",7674,541,"Wayne County, MI","05000US26163","wayne-county-mi",0.01742312957913402,"Male",0
+5,"16 & 17 Years",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",8489,528,"Wayne County, MI","05000US26163","wayne-county-mi",0.019273514073139,"Female",1
+6,"18 to 24 Years",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",25590,1059,"Wayne County, MI","05000US26163","wayne-county-mi",0.05809980270133432,"Male",0
+6,"18 to 24 Years",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",30209,1068,"Wayne County, MI","05000US26163","wayne-county-mi",0.06858682844097727,"Female",1
+7,"25 to 34 Years",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",23097,967,"Wayne County, MI","05000US26163","wayne-county-mi",0.052439669519058964,"Male",0
+7,"25 to 34 Years",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",34636,1295,"Wayne County, MI","05000US26163","wayne-county-mi",0.07863793537957857,"Female",1
+8,"35 to 44 Years",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",19925,755,"Wayne County, MI","05000US26163","wayne-county-mi",0.045237927660183135,"Male",0
+8,"35 to 44 Years",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",29897,1161,"Wayne County, MI","05000US26163","wayne-county-mi",0.06787846038928456,"Female",1
+9,"45 to 54 Years",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",23812,1003.9999999999999,"Wayne County, MI","05000US26163","wayne-county-mi",0.054063012970854744,"Male",0
+9,"45 to 54 Years",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",26162,930,"Wayne County, MI","05000US26163","wayne-county-mi",0.059398477462770945,"Female",1
+10,"55 to 64 Years",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",18615,797,"Wayne County, MI","05000US26163","wayne-county-mi",0.04226369000724261,"Male",0
+10,"55 to 64 Years",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",21282,809,"Wayne County, MI","05000US26163","wayne-county-mi",0.04831887460296198,"Female",1
+11,"65 to 74 Years",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",6895,496.99999999999994,"Wayne County, MI","05000US26163","wayne-county-mi",0.015654479860324352,"Male",0
+11,"65 to 74 Years",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",10531,508,"Wayne County, MI","05000US26163","wayne-county-mi",0.023909692155050868,"Female",1
+12,"75 Years & Over",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",3670,399,"Wayne County, MI","05000US26163","wayne-county-mi",0.008332406249077646,"Male",0
+12,"75 Years & Over",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",8712,498,"Wayne County, MI","05000US26163","wayne-county-mi",0.019779815597265517,"Female",1
+0,"Under 5 Years",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",23814,968,"Wayne County, MI","05000US26163","wayne-county-mi",0.05433326868889675,"Male",0
+0,"Under 5 Years",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",22653,835,"Wayne County, MI","05000US26163","wayne-county-mi",0.0516843678344494,"Female",1
+1,"5 Years",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",4413,416,"Wayne County, MI","05000US26163","wayne-county-mi",0.010068561128920019,"Male",0
+1,"5 Years",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",4867,537,"Wayne County, MI","05000US26163","wayne-county-mi",0.011104393159858086,"Female",1
+2,"6 to 11 Years",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",25812,1207,"Wayne County, MI","05000US26163","wayne-county-mi",0.058891842252364275,"Male",0
+2,"6 to 11 Years",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",25972,1062,"Wayne County, MI","05000US26163","wayne-county-mi",0.05925689318837769,"Female",1
+3,"12 to 14 Years",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",12784,715,"Wayne County, MI","05000US26163","wayne-county-mi",0.029167569787471908,"Male",0
+3,"12 to 14 Years",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",12400,698,"Wayne County, MI","05000US26163","wayne-county-mi",0.02829144754103971,"Female",1
+4,"15 Years",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",4074,368,"Wayne County, MI","05000US26163","wayne-county-mi",0.009295109458241595,"Male",0
+4,"15 Years",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",4380,436,"Wayne County, MI","05000US26163","wayne-county-mi",0.009993269373367253,"Female",1
+5,"16 & 17 Years",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",7752,491,"Wayne County, MI","05000US26163","wayne-county-mi",0.017686717849849987,"Male",0
+5,"16 & 17 Years",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",8497,498,"Wayne County, MI","05000US26163","wayne-county-mi",0.019386486270662452,"Female",1
+6,"18 to 24 Years",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",26182,1008.0000000000001,"Wayne County, MI","05000US26163","wayne-county-mi",0.0597360225418953,"Male",0
+6,"18 to 24 Years",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",31311,1177,"Wayne County, MI","05000US26163","wayne-county-mi",0.07143818660947536,"Female",1
+7,"25 to 34 Years",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",22146,1031,"Wayne County, MI","05000US26163","wayne-county-mi",0.05052761268095689,"Male",0
+7,"25 to 34 Years",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",34312,1093,"Wayne County, MI","05000US26163","wayne-county-mi",0.07828517322807697,"Female",1
+8,"35 to 44 Years",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",20475,860.9999999999999,"Wayne County, MI","05000US26163","wayne-county-mi",0.04671511196796678,"Male",0
+8,"35 to 44 Years",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",29963,1056,"Wayne County, MI","05000US26163","wayne-county-mi",0.06836263247356232,"Female",1
+9,"45 to 54 Years",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",24338,864,"Wayne County, MI","05000US26163","wayne-county-mi",0.055528810504340685,"Male",0
+9,"45 to 54 Years",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",25846,977,"Wayne County, MI","05000US26163","wayne-county-mi",0.05896941557626713,"Female",1
+10,"55 to 64 Years",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",17316,798,"Wayne County, MI","05000US26163","wayne-county-mi",0.039507637550051905,"Male",0
+10,"55 to 64 Years",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",20194,843,"Wayne County, MI","05000US26163","wayne-county-mi",0.04607399126159322,"Female",1
+11,"65 to 74 Years",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",6258,401,"Wayne County, MI","05000US26163","wayne-county-mi",0.014278054734824719,"Male",0
+11,"65 to 74 Years",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",9938,501,"Wayne County, MI","05000US26163","wayne-county-mi",0.022674226263133278,"Female",1
+12,"75 Years & Over",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",3531,363,"Wayne County, MI","05000US26163","wayne-county-mi",0.008056217844146066,"Male",0
+12,"75 Years & Over",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",9067,511.00000000000006,"Wayne County, MI","05000US26163","wayne-county-mi",0.020686980230210247,"Female",1
+0,"Under 5 Years",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",23550,1016,"Wayne County, MI","05000US26163","wayne-county-mi",0.05382106723405422,"Male",0
+0,"Under 5 Years",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",22489,731,"Wayne County, MI","05000US26163","wayne-county-mi",0.05139626246397645,"Female",1
+1,"5 Years",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",4367,382,"Wayne County, MI","05000US26163","wayne-county-mi",0.009980322743571753,"Male",0
+1,"5 Years",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",5002,484,"Wayne County, MI","05000US26163","wayne-county-mi",0.011431548972600392,"Female",1
+2,"6 to 11 Years",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",26583,1174,"Wayne County, MI","05000US26163","wayne-county-mi",0.0607526721988477,"Male",0
+2,"6 to 11 Years",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",25988,1169,"Wayne County, MI","05000US26163","wayne-county-mi",0.05939286179526969,"Female",1
+3,"12 to 14 Years",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",12852,742,"Wayne County, MI","05000US26163","wayne-county-mi",0.02937190471728513,"Male",0
+3,"12 to 14 Years",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",12431,748,"Wayne County, MI","05000US26163","wayne-county-mi",0.028409753154417326,"Female",1
+4,"15 Years",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",4125,397,"Wayne County, MI","05000US26163","wayne-county-mi",0.009427256999595485,"Male",0
+4,"15 Years",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",4336,444,"Wayne County, MI","05000US26163","wayne-county-mi",0.00990947547884752,"Female",1
+5,"16 & 17 Years",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",8086,590,"Wayne County, MI","05000US26163","wayne-county-mi",0.018479709114843416,"Male",0
+5,"16 & 17 Years",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",8878,503,"Wayne County, MI","05000US26163","wayne-county-mi",0.02028974245876575,"Female",1
+6,"18 to 24 Years",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",25553,1016,"Wayne County, MI","05000US26163","wayne-county-mi",0.05839871469349416,"Male",0
+6,"18 to 24 Years",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",31209,1128,"Wayne County, MI","05000US26163","wayne-county-mi",0.07132491241221224,"Female",1
+7,"25 to 34 Years",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",22371,1045,"Wayne County, MI","05000US26163","wayne-county-mi",0.051126585778897116,"Male",0
+7,"25 to 34 Years",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",33599,1100,"Wayne County, MI","05000US26163","wayne-county-mi",0.07678700798288696,"Female",1
+8,"35 to 44 Years",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",21799,843,"Wayne County, MI","05000US26163","wayne-county-mi",0.049819339474953206,"Male",0
+8,"35 to 44 Years",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",29536,982,"Wayne County, MI","05000US26163","wayne-county-mi",0.06750144551273994,"Female",1
+9,"45 to 54 Years",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",24154,1091,"Wayne County, MI","05000US26163","wayne-county-mi",0.05520144619835863,"Male",0
+9,"45 to 54 Years",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",26657,1064,"Wayne County, MI","05000US26163","wayne-county-mi",0.06092179147593135,"Female",1
+10,"55 to 64 Years",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",16531,763,"Wayne County, MI","05000US26163","wayne-county-mi",0.03777987526310617,"Male",0
+10,"55 to 64 Years",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",19273,855.0000000000001,"Wayne County, MI","05000US26163","wayne-county-mi",0.04404643009774637,"Female",1
+11,"65 to 74 Years",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",5994,460,"Wayne County, MI","05000US26163","wayne-county-mi",0.01369866144377584,"Male",0
+11,"65 to 74 Years",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",9568,518,"Wayne County, MI","05000US26163","wayne-county-mi",0.021866665447788994,"Female",1
+12,"75 Years & Over",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",3466,304,"Wayne County, MI","05000US26163","wayne-county-mi",0.007921181275296472,"Male",0
+12,"75 Years & Over",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",9164,549,"Wayne County, MI","05000US26163","wayne-county-mi",0.020943365610737702,"Female",1
